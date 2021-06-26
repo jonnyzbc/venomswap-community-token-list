@@ -54,5 +54,12 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  }
-]
+      },
+  {
+    "chainId": 1666600000,
+    "address": "0x1C42bB16aec88B594F49824F31706cDf0fc6C2e3",
+    "symbol": "HJUAN",
+    "name": "Harmony Juan",
+    "decimals": 18,
+    "logoURI": "https://github.com/jonnyzbc/HJUAN/blob/485ebc590003265c1097cfad4567a53b9dfa1124/Final%20HJUAN.png"
+  ]
